@@ -3,4 +3,4 @@ momentos historicos donde se muestran algunos de los momentos que marcaron el fu
 un boton llamado "Live Updates" el cual nos llevara a una pagina externa para consultar los rumores de ficchajes actuales
 
 Video de demostracion: https://youtu.be/BIqn0vaqq6YEn
-lace al repositorio: https://github.com/sergioprzz/web-total
+Enlace al repositorio: https://github.com/sergioprzz/web-total
